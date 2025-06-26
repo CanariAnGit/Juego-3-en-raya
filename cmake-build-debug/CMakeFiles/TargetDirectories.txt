@@ -1,0 +1,3 @@
+R:/Archivos de CLion/3enraya/cmake-build-debug/CMakeFiles/3enraya.dir
+R:/Archivos de CLion/3enraya/cmake-build-debug/CMakeFiles/edit_cache.dir
+R:/Archivos de CLion/3enraya/cmake-build-debug/CMakeFiles/rebuild_cache.dir
